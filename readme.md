@@ -58,5 +58,11 @@ Done completely by myself.
 
 ---
 
+## Visit
+
+[Visit site](https://sofmik.github.io/Desktop_Mobile_Figma_Updated/)
+
+---
+
 ## Автор/Author
 SofMik, начинающий веб-разработчик/SofMik, student web developer
